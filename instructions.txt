@@ -1,0 +1,4 @@
+Setup Express
+
+- npm init
+- npm install express
